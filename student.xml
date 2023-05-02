@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>9</id>
+        <name>Nhu</name>
+        <lastName>Duc</lastName>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>c</address>
+        <phoneNumber>09847657456</phoneNumber>
+        <email>duc@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2022</date>
+        <gpa>2.2</gpa>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Nhu Dinh</name>
+        <lastName>Duc</lastName>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2003</date>
+        <gpa>3.8</gpa>
+    </student>
+    <student>
+        <id>0</id>
+        <name>Nhu Dinh</name>
+        <lastName>Duc</lastName>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2003</date>
+        <gpa>3.8</gpa>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Nhu Dinh</name>
+        <lastName>Hoa</lastName>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2003</date>
+        <gpa>3.8</gpa>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Phung Chi</name>
+        <lastName>Kien</lastName>
+        <age>20</age>
+        <gender>Female</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2003</date>
+        <gpa>3.2</gpa>
+    </student>
+    <student>
+        <id>9</id>
+        <name>Vu Duc</name>
+        <lastName>L</lastName>
+        <age>23</age>
+        <gender>Male</gender>
+        <address>Ha Noi</address>
+        <phoneNumber>0965745675</phoneNumber>
+        <email>lan@gmail.com</email>
+        <major>CNTT</major>
+        <date>20/10/2022</date>
+        <gpa>3.3</gpa>
+    </student>
+    <student>
+        <id>7</id>
+        <name>Nhu Dinh</name>
+        <lastName>Manh</lastName>
+        <age>25</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2022</date>
+        <gpa>3.0</gpa>
+    </student>
+    <student>
+        <id>1</id>
+        <name>Nhu Dinh</name>
+        <lastName>Muc</lastName>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2003</date>
+        <gpa>3.2</gpa>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Tran Dinh</name>
+        <lastName>Trong</lastName>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0987653234</phoneNumber>
+        <email>ducnhu1234@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/04/2003</date>
+        <gpa>3.8</gpa>
+    </student>
+    <student>
+        <id>10</id>
+        <name>Nhu</name>
+        <lastName>Duc</lastName>
+        <age>20</age>
+        <gender>Male</gender>
+        <address>Hai Duong</address>
+        <phoneNumber>0944343535</phoneNumber>
+        <email>Duc@gmail.com</email>
+        <major>CNTT</major>
+        <date>10/10/2022</date>
+        <gpa>3.4</gpa>
+    </student>
+</students>
