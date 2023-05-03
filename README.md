@@ -24,7 +24,7 @@ Student management software is an important application in the field of educatio
 - MySql in Database(if any)
 - JavaSwing
 
-## ================ Software And Tools Required ================
+## ============= Software And Tools Required =============
 - JavaCore : [[https://viettuts.vn/javahttps://viettuts.vn/java](https://viettuts.vn/java)]
 - Git :[ [https://www.youtube.com/watch?v=4xqVv2lTo40](https://www.youtube.com/watch?v=4xqVv2lTo40)]
 - Java JDK 17+ : [[https://www.youtube.com/watch?v=cL4GcZ6GJV8](https://www.youtube.com/watch?v=cL4GcZ6GJV8)]
@@ -32,7 +32,7 @@ Student management software is an important application in the field of educatio
 - Apache Maven : [[https://shareprogramming.net/xay-dung-va-quan-ly-du-an-hieu-qua-voi-apache-maven/](https://shareprogramming.net/xay-dung-va-quan-ly-du-an-hieu-qua-voi-apache-maven/)] 
 - MySQL : [[https://www.youtube.com/watch?v=2c2fUOgZMmY](https://www.youtube.com/watch?v=2c2fUOgZMmY)]
 
-## ================= Dummy Database Initialization =================
+## ============== Dummy Database Initialization ==============
 I haven't really finished it yet, but you might as well give it a go.
 
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
@@ -84,7 +84,7 @@ insert into user (idUser, userName, password) values
 (2, 'trungdz', 'trungmegai'),
 (3, 'tungdz', 'tungtien123');
 ```
-## ========== Importing and Running The Project In Eclipse==========
+## ======== Importing and Running The Project In Eclipse ========
 Step 0: Open Eclipse,if package javax.swing is not accessible , Right Click On Project > Build Path > Configure Build Path > Libraries > Add Libraries > j2se-1.5 > apply > Finish. You must use Jre System Library [j2se-1.5] or more.
 
 Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: https://github.com/tobezero01/QLSVDucnhu.git> Select master Branch > Next > Next > Finish.
