@@ -25,4 +25,4 @@ Student management software is an important application in the field of educatio
 - JavaSwing
 
 ## =========== Software And Tools Required ===========
-- [Git][(https://www.youtube.com/watch?v=4xqVv2lTo40)]
+- Git : [https://www.youtube.com/watch?v=4xqVv2lTo40](https://www.youtube.com/watch?v=4xqVv2lTo40)
