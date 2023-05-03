@@ -87,7 +87,7 @@ insert into user (idUser, userName, password) values
 ## ======== Importing and Running The Project In Eclipse ========
 Step 0: Open Eclipse,if package javax.swing is not accessible , Right Click On Project > Build Path > Configure Build Path > Libraries > Add Libraries > j2se-1.5 > apply > Finish. You must use Jre System Library [j2se-1.5] or more.
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: https://github.com/tobezero01/QLSVDucnhu.git> Select master Branch > Next > Next > Finish.
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: https://github.com/tobezero01/QLSVDucnhu.git Select master Branch > Next > Next > Finish.
 
 Step 2: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
 
